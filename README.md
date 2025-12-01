@@ -28,7 +28,6 @@ cd RC4-Telegram-Bot
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\\Scripts\\activate      # Windows
-pip install -r requirements.txt
 ```
 
 3. Создайте файл `.env` в корне проекта и добавьте токен вашего бота:
