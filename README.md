@@ -54,7 +54,7 @@ python bot.py
 ---
 
 ## Пример работы
-<img width="393" height="809" alt="iPhone 14 Pro Max" src="https://github.com/user-attachments/assets/f92fd2d3-a3b1-4f31-9efe-8f9b94a1486b" />
+<img width="393" height="809" alt="iPhone 14 Pro Max-Photoroom" src="https://github.com/user-attachments/assets/91b053af-d57d-44b9-927c-f4fb589d81ab" />
 
 ---
 
