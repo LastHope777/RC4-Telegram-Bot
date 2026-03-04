@@ -1,4 +1,9 @@
 # RC4 Telegram Bot 🔐
+
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-4.x-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
+
 **RC4 Telegram Bot** — бот для шифрования и расшифровки текста с использованием классического потокового шифра **RC4**.  
 
 Разработан студентами группы **6402-020302D**: **Никитой Пишковым** и **Егором Мамонтовым** в рамках дисциплины **«Теория информации»**.
@@ -13,7 +18,22 @@
 - 💬 Удобное меню с кнопками и emoji  
 
 ---
-
+## 🛠️ Технологии
+- [Python 3.11+](https://www.python.org/)
+- [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/) 
+- [python-dotenv](https://pypi.org/project/python-dotenv/) 
+---
+## 📁 Структура проекта
+```
+RC4-Telegram-Bot/
+├── main.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .env          # не в репозитории
+└── .gitignore
+```
+---
 ## Установка и запуск
 1. Клонируйте репозиторий:
 
@@ -41,7 +61,7 @@ TOKEN=ваш\_токен\_от\_BotFather
 4. Запустите бота:
 
 ```bash
-python bot.py
+python main.py
 ```
 
 ---
@@ -64,5 +84,5 @@ python bot.py
 ---
 
 ## Лицензия
-MIT License
+MIT [LICENSE](LICENSE)
 
